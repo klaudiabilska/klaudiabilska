@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Klaudia</h1>
-<h3 align="center">At this early stage of my learning path, I'm focusing on developing a strong foundation in the fundamentals of programming.</h3>
+<h3 align="left">At this early stage of my learning path, I'm focusing on developing a strong foundation in the fundamentals of programming.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
