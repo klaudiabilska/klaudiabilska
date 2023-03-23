@@ -6,7 +6,7 @@
 
 <h3 align="left">...and Tools</h3>
 <p align="left"> 
-    <a href="https://www.image-line.com/" target="_blank" rel="noreferrer"> <img src="https://png2.cleanpng.com/sh/d63df185d43029ef795690274cc58417/L0KzQYm3VsEzN6Nvf5H0aYP2gLBuTfZtNaR5jdZybz3wf7PwjPUubJpsgeZqbD3khbXwj714d6NwiAZqdHnyfn7wjfFobV5xRadrMkC5QbS8U8Vna5c3RqMAM0K8Q4S3UcUzQGk5UKo8N0K1QYO1kP5o/kisspng-fl-studio-mobile-digital-audio-workstation-image-l-5b2061c535fcf2.1532933015288488372212.png" alt="fl-studio" width="40" height="40"/> </a> 
+    <a href="https://www.image-line.com/" target="_blank" rel="noreferrer"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/819aa0107793711.5faf0495c2d8b.png" alt="fl-studio" width="40" height="40"/> </a> 
     <a href="https://www.image-line.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="canva" width="40" height="40"/> </a> 
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
